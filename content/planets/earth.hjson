@@ -47,8 +47,8 @@ clearSectorOnLose: true
 allowWaves: true
 icon: planet
 defaultCore: core-nucleus
-parent: solace
-solarSystem: solace
+parent: sun
+solarSystem: sun
 launchCandidates: []
 itemWhitelist: [
   copper, lead, beryllium, graphite, titanium
