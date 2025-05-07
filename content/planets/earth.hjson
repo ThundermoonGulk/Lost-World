@@ -2,7 +2,7 @@ localizedName: Earth
 mesh: {
   type: NoiseMesh
   seed: 3000
-  divisions: 3
+  divisions: 4
   color1: 558855
   color2: 555588
   raduis: 0.85
