@@ -1,9 +1,9 @@
-name: ""
-subtitle: ""
-description: ""
-author: ""
-version: ""
-minGameVersion:
-hidden:
+name: "Lost World:Gulk"
+subtitle: "Revival of Terra"
+description: "MISSION: Eliminate Virus"
+author: "Thundermoon"
+version: "0.5"
+minGameVersion: 145
+hidden: false
 dependencies: []
 repo: ""
