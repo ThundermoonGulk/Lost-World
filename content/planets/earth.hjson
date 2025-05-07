@@ -2,10 +2,10 @@ localizedName: Earth
 
 mesh: {
   type: NoiseMesh
-  seed: 1500
-  divisions: 5
-  color1: 335533
-  color2: 333355
+  seed: 1690
+  divisions: 4
+  color1: 446644
+  color2: 444466
   radius: 0.9
   octaves: 5
   persistence: 0.8
@@ -16,9 +16,9 @@ mesh: {
 cloudMesh: {
   type: HexSkyMesh
   seed: 10
-  speed: 1.5
+  speed: 2
   radius: 0.1
-  divisions: 5
+  divisions: 4
   color: 555555
   octaves: 8
   persistence: 0.5
@@ -60,7 +60,7 @@ updateLighting: false
 sectorSeed: 529
 bloom: true
 visible: true
-atmosphereColor: 5555ee
+atmosphereColor: 4444cc
 iconColor: 29302b
 hasAtmosphere: true
 allowWaveSimulation: true
