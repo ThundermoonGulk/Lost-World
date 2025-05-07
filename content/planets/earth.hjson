@@ -1,11 +1,11 @@
 localizedName: Earth
 mesh: {
   type: NoiseMesh
-  seed: 5000
-  divisions: 5
+  seed: 3000
+  divisions: 3
   color1: 558855
   color2: 555588
-  raduis: 0.9
+  raduis: 0.85
   octaves: 3
   persistence: 0.8
   scale: 1
@@ -16,7 +16,7 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 69
   speed: 6.9
-  raduis: 1.5
+  raduis: 0.1
   divisions: 4
   color: aaaaaa
   octaves: 5
