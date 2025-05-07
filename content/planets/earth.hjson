@@ -14,12 +14,12 @@ mesh: {
 
 cloudMesh: {
   type: HexSkyMesh
-  seed: 69
+  seed: 4
   speed: 6.9
   raduis: 0.1
   divisions: 4
   color: aaaaaa
-  octaves: 5
+  octaves: 3
   persistence: 0.5
   scl: 1
   thresh: 0.45
